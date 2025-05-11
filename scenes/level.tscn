@@ -1,7 +1,7 @@
 [gd_scene load_steps=6 format=4 uid="uid://dwqx0rvvupy3k"]
 
-[ext_resource type="AudioStream" uid="uid://5106gqstkjqr" path="res://assets/CLAUDE DEBUSSY_  CLAIR DE LUNE.wav" id="2_w8frs"]
-[ext_resource type="Texture2D" uid="uid://jhkrdt06kev3" path="res://assets/gradient.png" id="3_mx8sn"]
+[ext_resource type="AudioStream" uid="uid://5106gqstkjqr" path="res://assets/audio/CLAUDE DEBUSSY_  CLAIR DE LUNE.wav" id="2_w8frs"]
+[ext_resource type="Texture2D" uid="uid://jhkrdt06kev3" path="res://assets/blocks/gradient.png" id="3_mx8sn"]
 [ext_resource type="PackedScene" uid="uid://bsgd7q35lenap" path="res://scenes/player.tscn" id="3_w8frs"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ppgk2"]

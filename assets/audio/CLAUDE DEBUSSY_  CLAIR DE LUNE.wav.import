@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://5106gqstkjqr"
-path="res://.godot/imported/CLAUDE DEBUSSY_  CLAIR DE LUNE.wav-e3360874f826034aaff56271faf62950.sample"
+path="res://.godot/imported/CLAUDE DEBUSSY_  CLAIR DE LUNE.wav-c6931701569b40d95e72954f38d7a611.sample"
 
 [deps]
 
-source_file="res://assets/CLAUDE DEBUSSY_  CLAIR DE LUNE.wav"
-dest_files=["res://.godot/imported/CLAUDE DEBUSSY_  CLAIR DE LUNE.wav-e3360874f826034aaff56271faf62950.sample"]
+source_file="res://assets/audio/CLAUDE DEBUSSY_  CLAIR DE LUNE.wav"
+dest_files=["res://.godot/imported/CLAUDE DEBUSSY_  CLAIR DE LUNE.wav-c6931701569b40d95e72954f38d7a611.sample"]
 
 [params]
 
