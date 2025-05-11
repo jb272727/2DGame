@@ -31,9 +31,6 @@ func _physics_process(delta: float) -> void:
 		player_sprite.play("walk2")
 	else:
 		player_sprite.play("default")
-	
-	print(self.position)
-	print(player_sprite.position)
 
 
 	move_and_slide()
